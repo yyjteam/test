@@ -1,0 +1,37 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1045 &1
+EditorBuildSettings:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Scenes:
+  - enabled: 1
+    path: Assets/CharacterController_Gripati/Scenes/0 DemoIntro.unity
+    guid: 053a4623f57264ddbb482acc1eddc4c5
+  - enabled: 1
+    path: Assets/CharacterController_Gripati/Scenes/1 DemoSceneStaticJoystikNoExtraButton.unity
+    guid: 0c291d8e04d9d4f9496c4a47307cae3f
+  - enabled: 1
+    path: Assets/CharacterController_Gripati/Scenes/2 DemoSceneDynamicJoystikNoExtraButton.unity
+    guid: b797a0ebb60774956a888a68810e9873
+  - enabled: 1
+    path: Assets/CharacterController_Gripati/Scenes/3 DemoSceneDynamicJoystikTouchVisibleNoExtraButton.unity
+    guid: f1733cfb87ed14999897cd45d539034c
+  - enabled: 1
+    path: Assets/CharacterController_Gripati/Scenes/4 DemoSceneDynamicJoystikTouchVisibleCubicNoExtraButtons.unity
+    guid: 8fa78fc216dd24cf18f2b55d0502c0de
+  - enabled: 1
+    path: Assets/CharacterController_Gripati/Scenes/5 DemoSceneDynamicJoystikTouchVisibleCubicTwoButtons.unity
+    guid: 346a859bc98dc48518cc4a5e4c1d4810
+  - enabled: 1
+    path: Assets/CharacterController_Gripati/Scenes/6 DemoSceneDynamicJoystikTouchVisibleCubicFourButtons.unity
+    guid: e82c4e38ddf384efa871e72e2cf352d1
+  - enabled: 1
+    path: Assets/CharacterController_Gripati/Scenes/7 DemoSceneDynamicJoystikTouchVisibleExpFourButtons.unity
+    guid: 5fcc55bd1e3864362a3d0c907ddb983c
+  - enabled: 1
+    path: Assets/CharacterController_Gripati/Scenes/8 DemoSceneDynamicTwoJoystikTouchVisibleNoExtraButton.unity
+    guid: d9ddf7dc9c987463db791df21ec7acaa
+  - enabled: 1
+    path: Assets/CharacterController_Gripati/Scenes/9 DemoSceneDynamicJoystikTouchVisibleExpFourButtons2.unity
+    guid: 4f08330b4caa64699b5bb8679084ec2f
